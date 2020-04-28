@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-Qamar Abbas
+
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mQAMAR ABBAS
 \033[1;96mInstagram \033[1;93m: \033[1;QAMAR BABU

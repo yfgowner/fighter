@@ -47,14 +47,14 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
+Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
+░█▀▀█ ─█▀▀█ ░█▀▄▀█ ─█▀▀█ ░█▀▀█ 
+░█─░█ ░█▄▄█ ░█░█░█ ░█▄▄█ ░█▄▄▀ 
+─▀▀█▄ ░█─░█ ░█──░█ ░█─░█ ░█─░█ 
+
+─█▀▀█ ░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀▀█ 
+░█▄▄█ ░█▀▀▄ ░█▀▀▄ ░█▄▄█ ─▀▀▀▄▄ 
+░█─░█ ░█▄▄█ ░█▄▄█ ░█─░█ ░█▄▄▄█
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
 \033[1;96mInstagram \033[1;93m: \033[1;FlowRana
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "qamar"
+CorrectPassword = "yfg"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.Youtube.com/')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Youtube.com/')
 
 def login():
 	os.system('clear')

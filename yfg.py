@@ -49,7 +49,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 
- Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
+  Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
 
   POWERD BY BRANDED X SQUAD UNITY ✌️✌️
   Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳

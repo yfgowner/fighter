@@ -49,11 +49,11 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 
-\033[1;91m Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
-\033[1;91m
-\033[1;91m POWERD BY BRANDED X SQUAD UNITY ✌️🌹💝✌️
-\033[1;91m Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
-\033[1;91m
+ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
+
+  POWERD BY BRANDED X SQUAD UNITY ✌️✌️
+  Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
+
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mQamarBabu
 \033[1;96mInstagram \033[1;93m: \033[1;insta07866

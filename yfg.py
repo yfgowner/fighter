@@ -49,22 +49,25 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 
-  Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
+  \033[1;96m Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
 
-  POWERD BY BRANDED X SQUAD UNITY ✌️✌️
-  Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
+  
+\033[1;96m╔══╦═╦══╦═╦╦══╦═╦══╗╔╗╔╗╔══╦══╦╦╦══\033[1;96m╦══╗
+\033[1;96m║╔╗║╬║╔╗║║║╠╗╗║╦╩╗╗║╚╗╔╝║══╣╔╗║║║╔╗\033[1;96m╠╗╗║
+\033[1;96m╔╗║╗╣╠╣║║║╠╩╝║╩╦╩╝║╔╝╚╗╠══║╚╝║║║╠╣╠\033[1;96m╩╝║
+\033[1;96m╚══╩╩╩╝╚╩╩═╩══╩═╩══╝╚╝╚╝╚══╩═╗╠═╩╝╚\033[1;96m╩══╝
+\033[1;96m─────────────────────────────╚╝
+
+ \033[1;96m Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳
 
 \033[1;91m =======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mQamarBabu
 \033[1;96mInstagram \033[1;93m: \033[1;insta07866
-\033[1;96mFacebook  \033[1;93m: \033[1; qamar0786
+\033[1;96mFacebook  \033[1;93m: \033[1;Qamar0786
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/yfgowner
 \033[1;91m ======================================="""
 
-def tik():
-	titik = ['.   ','..  ','... ']
-	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+
 
 
 back = 0
@@ -178,7 +181,7 @@ def menu():
 		id = a['id']
 	except KeyError:
 		os.system('clear')
-		print"\033[1;96m[!] \033[1;91mIt seems that your account has a checkpoint"
+		print"\033[1;96m[!] \033[1;91mIt seems APKA ACCOUNT BLOCK HO CHUKA HAI KISI AUR ID KO LOGIN KAREIN" 
 		os.system('rm -rf login.txt')
 		time.sleep(1)
 		login()
@@ -287,7 +290,8 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;96m[\033[1;97m✸\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
-	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z')
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z') CLONING START HO CHUKI HAI SO PLEASE WAIT
+
 	print 42*"\033[1;96m="
 	
 			
